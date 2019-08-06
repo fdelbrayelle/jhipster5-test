@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "fr.delbrayelle.demo"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "jhipster5test",
+        "packageName": "fr.delbrayelle.demo",
+        "packageFolder": "fr/delbrayelle/demo",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "Zjc5MmJkMjA2YTFhYTFjZjRhMWU0OGY4YTgyMWM3OGNkMGI1ZDY0Y2MxYzczYjAxNWQzZDdlNDMxMzQ2NDk2YTExOWFmNjZmMTczNWE5YTVmYjQzZjQ2MDEyY2U5OWU5NDJlMTg5NWVhZjU2NmNkMzAwNDdiNDUyNDMyNTQ4MTg=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
